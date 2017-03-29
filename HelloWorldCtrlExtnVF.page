@@ -1,0 +1,4 @@
+<apex:page standardcontroller="Account" extensions="HelloWorldControllerExtn">
+	<apex:outputfield value="{!account.name}" rendered="false"/>
+	{!helloMessage}
+</apex:page>
