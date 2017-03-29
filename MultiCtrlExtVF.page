@@ -1,0 +1,13 @@
+<apex:page standardcontroller="Account" extensions="MultiCtrlExtCtrl1,MultiCtrlExtCtrl2">
+
+<!-- Multiple Controller Extensions:
+
+The order of controller extension matters.
+
+Highest precedence is given to the leftmost controller so if there are overloaded methods
+
+the method in the leftmost controller will execute.-->
+
+{!message}
+
+</apex:page>
