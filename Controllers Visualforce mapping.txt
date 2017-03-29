@@ -1,4 +1,5 @@
-APEX CONTROLLER			VISUALFORCE
+APEX CONTROLLER				VISUALFORCE
 
 
-HelloWorldControllerExtn	HelloWorldCtrlExtnVF
+HelloWorldControllerExtn		HelloWorldCtrlExtnVF
+MultiCtrlExtCtrl1, MultiCtrlExtCtrl2	MultiCtrlExtVF
